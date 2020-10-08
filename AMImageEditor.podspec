@@ -9,7 +9,7 @@ Photo Editor supports drawing, cropping and rotating
 
   s.homepage         = 'https://github.com/alimirshad/AMImageEditor'
   s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
-  s.author           = { 'Ali M Irshad => 'aly.irshad@gmail.com' }
+  s.author           = { 'Ali M Irshad' => 'aly.irshad@gmail.com' }
   s.source           = { :git => 'https://github.com/alimirshad/AMImageEditor.git', :tag => s.version.to_s }
   s.swift_version    = '5.0'
 
