@@ -25,12 +25,11 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'aly.irshad@gmail.com' => 'ali.irshad@ranosys.com' }
-  s.source           = { :git => 'https://github.com/aly.irshad@gmail.com/AMImageEditor.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/alimirshad/AMImageEditor.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '11.0'
 
-  s.source_files = 'AMImageEditor/Classes/**/*'
+  s.source_files = 'ImageEditorViewController/**/*'
   
   # s.resource_bundles = {
   #   'AMImageEditor' => ['AMImageEditor/Assets/*.png']
